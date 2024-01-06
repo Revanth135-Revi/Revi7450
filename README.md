@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Revanth G
-- 👀 I’m interested in Web Devoloping, Sales, Digital Marketing
-- 🌱 I’m currently learning  HTML and CSS
-- 📫 How to reach me: through my email:revanth.7050@gmail.com
+
